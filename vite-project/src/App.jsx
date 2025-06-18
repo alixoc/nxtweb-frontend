@@ -1,5 +1,5 @@
 import React from 'react'
-import Home from './Home/home'
+import Home from './Homme/Home'
 
 import { Route, Routes } from "react-router-dom"
 import Chefs from './Chefs/Chefs'
